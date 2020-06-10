@@ -9,7 +9,7 @@ Na aplicação mobile é feito o consumo da api feita em nodeJS com a busca por 
 
 ## Preview Web
 
-<img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview01.jpeg" width="300"/> <img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview02.jpeg" width="300"/>
+<img src="https://github.com/bruiglesias/ecoleta/blob/master/imagens/web01.PNG" width="300"/> <img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview02.jpeg" width="300"/>
 
 
 ## Contribuição
