@@ -3,9 +3,9 @@ Ecoleta foi um aplicativo desenvolvido usando NodeJS, ReactJS e React Native par
 
 ## Como funciona:
 
-Na aplicação web pode ser o cadastro de pontos de coleta e materias coletados utilizando api de mapas, geolocalização, IBGE (para busca de estados e municipios) e envio de arquivo.
+Na aplicação web pode ser feito o cadastro de pontos de coleta e materias coletados utilizando api de mapas, geolocalização, IBGE (para busca de estados e municipios) e envio de arquivo.
 
-Na aplicação mobile é feito o consumo da api feita em nodeJS com a busca por esses pontos que podem ser filtrados.
+Na aplicação mobile faz o consumo da api feita em nodeJS com a busca por esses pontos que podem ser filtrados.
 
 ## Preview Web
 
