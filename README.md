@@ -11,6 +11,10 @@ Na aplicação mobile é feito o consumo da api feita em nodeJS com a busca por 
 
 <img src="https://github.com/bruiglesias/ecoleta/blob/master/imagens/web01.PNG" width="100%"/> <img src="https://github.com/bruiglesias/ecoleta/blob/master/imagens/web02.PNG" width="100%"/>
 
+## Preview Mobile
+```bash
+Em progresso.
+```
 
 ## Contribuição
 ```bash
